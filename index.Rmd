@@ -8,4 +8,4 @@ output:
   postcards::jolla
 ---
 
-I am a researcher with a background in consumer and employee research. Interested in understanding the basis of decision-making and behaviour I completed an MSc in Behavioural and Economic Science at the University of Warwick in September 2021.
+I am a quantiative researcher with a background in consumer research. Interested in understanding the basis of decision-making and behaviour I completed an MSc in Behavioural and Economic Science at the University of Warwick in September 2021.
