@@ -1,0 +1,11 @@
+---
+title: "Cedric Chin"
+image: "avatar.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/cedricchin/"
+output:
+  postcards::jolla
+---
+
+I am a researcher with a background in consumer and employee research. Interested in understanding the basis of decision-making and behaviour I completed an MSc in Behavioural and Economic Science at the University of Warwick in September 2021.
